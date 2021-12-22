@@ -27,3 +27,9 @@
 [twitter]: https://twitter.com/ban_sujan
 [instagram]: https://instagram.com/sujanban1
 [linkedin]: https://linkedin.com/in/sujan-ban
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanban&layout=compact)](https://github.com/Sujanban/github-readme-stats)
+<br>
+
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujanban&show_icons=true&theme=radical)

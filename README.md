@@ -1,11 +1,12 @@
-## I'm a Developer, and Tech Enthusiast!!
+## Hi I'm Sujan Ban <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 👋 Hi, I’m Sujan Ban
+- 🔭 I'm a Developer, and Tech Enthusiast!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me visit https://www.sujanban.com.np
+- 📫 Reach me: bansujan@gmail.com.
 - ⚡ Fun fact: I love Listening to Music and code.
+
 
 ### Connect with me:
 
@@ -13,19 +14,16 @@
 [<img align="left" alt="ban_sujan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sujan-ban | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sujanban1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
-<br />
+### Skills
 
-
-
-<!---
-Sujanban/Sujanban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- social media -->
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br>
 
 [website]: https://sujanban.com.np
 [twitter]: https://twitter.com/ban_sujan
-[instagram]: https://www.instagram.com/sujanban1
-[linkedin]: https://www.linkedin.com/in/sujan-ban
+[instagram]: https://instagram.com/sujanban1
+[linkedin]: https://linkedin.com/in/sujan-ban

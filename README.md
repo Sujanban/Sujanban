@@ -8,3 +8,10 @@
 Sujanban/Sujanban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- social media -->
+
+[website]: https://sujanban.com.np
+[twitter]: https://twitter.com/ban_sujan
+[instagram]: https://www.instagram.com/sujanban1
+[linkedin]: https://www.linkedin.com/in/sujan-ban

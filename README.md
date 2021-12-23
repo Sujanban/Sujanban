@@ -1,5 +1,6 @@
 ## Hi I'm Sujan Ban <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<img align="right" alt="GIF" src="https://github.com/Sujanban/Sujanban/blob/main/hello.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Sujanban/Sujanban/blob/main/hello.gif?raw=true"  />
+
 - 🔭 I'm a Developer, and Tech Enthusiast!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

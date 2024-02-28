@@ -1,3 +1,6 @@
+
+[![](https://visitcount.itsvg.in/api?id=sujanban&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 ## Hi I'm Sujan Ban <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <img align="right" alt="GIF" src="https://github.com/Sujanban/Sujanban/blob/main/hi.gif?raw=true" width="480" />
 

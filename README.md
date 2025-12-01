@@ -46,4 +46,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujanban&layout=compact)](https://github.com/Sujanban/github-readme-stats)
 <br>
 
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujanban&show_icons=true&theme=radical)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-ruddy-rho-19.vercel.app/api?username=Sujanban&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <img src="https://github-readme-stats-ruddy-rho-19.vercel.app/api?username=Sujanban&show_icons=true" />
+</picture>

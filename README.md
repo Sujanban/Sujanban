@@ -4,7 +4,7 @@
 - 🔭 I'm a Developer, and Tech Enthusiast!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - 📫 Reach me: bansujan@gmail.com.
 - ⚡ Fun fact: I love Listening to Music and code.
 
